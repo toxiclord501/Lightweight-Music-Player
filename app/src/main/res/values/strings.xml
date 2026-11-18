@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Lightweight Music Player</string>
+    <string name="widget_description">Kontrol pemutar dengan sampul album dan tombol cepat</string>
+    <string name="widget_previous">Sebelumnya</string>
+    <string name="widget_play_pause">Putar atau jeda</string>
+    <string name="widget_next">Berikutnya</string>
+</resources>
